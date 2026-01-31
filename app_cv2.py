@@ -161,7 +161,7 @@ with col2:
 st.header("💼 Experience")
 
 
-with st.expander("Peer Mentor | Cape Peninsula University of Technology"):
+with st.expander("Peer Mentor | Cape Peninsula University of Technology (2023 - 2025)"):
     st.write("""
     - Provided socio-academic support to students in need  
     - Connected students to relevant professional services 
