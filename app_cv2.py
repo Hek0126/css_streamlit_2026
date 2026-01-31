@@ -2,11 +2,10 @@
 """
 Created on Thu Jan 29 14:45:26 2026
 
-@author: 221688366
+@author: hekes
 """
 
-"""
-"""
+
 
 import streamlit as st
 
@@ -50,7 +49,7 @@ st.sidebar.write("- Setswana (Fluent)")
 # ======================
 # MAIN CONTENT
 # ======================
-st.title("Buhlebenkosi, Heketshe")
+st.title("Buhlebenkosi Heketshe")
 st.subheader("Mathematical Sciences Honours Student")
 
 st.markdown("""
@@ -67,9 +66,9 @@ thinking creatively.
 st.header("🎓 Education")
 
 st.markdown("""
-**Postgraduate Diploma in Mathematical Sciences
+**Postgraduate Diploma in Mathematical Sciences | 
   Cape Peninsula University of Technology**  
-Year: 2026 - *  
+*Year: 2026 - (pending)*  
 
 **Relevant Modules**
 - Advanced Programming for Data Science  
@@ -84,9 +83,9 @@ Year: 2026 - *
 """)
 
 st.markdown("""
-**Advanced Diploma in Mathematical Sciences
+**Advanced Diploma in Mathematical Sciences | 
   Cape Peninsula University of Technology**  
-Year: 2025 - 2025*  
+*Year: 2025 - 2025*  
 
 **Relevant Modules**
 - Principles of Mathematical Analysis  
@@ -102,9 +101,9 @@ Year: 2025 - 2025*
 """)
 
 st.markdown("""
-**Diploma in Mathematical Sciences
-  Cape Peninsula University of Technology**  
-Year: 2021 - 2024*  
+**Diploma in Mathematical Sciences | 
+Cape Peninsula University of Technology**  
+*Year: 2021 - 2024*  
 
 **Relevant Modules**
 - Mathematics  
@@ -120,9 +119,9 @@ Year: 2021 - 2024*
 """)
 
 st.markdown("""
-**National Senior Certificate (NSC)
+**National Senior Certificate (NSC) | 
 Far North Secondary School**  
-*Completed: 2019*
+*Completed: 2020*
 """)
 
 # ======================
@@ -143,7 +142,7 @@ with col1:
     - Power BI
     - Matlab
 
-    **Tools: Python, R, SAS, SQL, PowerBI, Matlab, Streamlit, Git Bash**""")
+    **Tools**: Python, R, SAS, SQL, PowerBI, Matlab, Streamlit, GitBash""")
 
 with col2:
     st.write("""
@@ -177,7 +176,7 @@ st.markdown("""
 - **Coding Summer School** – CHPC & NITheCS (2026)  
 - Python for Beginners - Alison (2026) 
 - Power BI: Dashboards for Beginners (2025)
-- SAS - Specialization in Undergraduate Applied Statistics 
+- SAS - Specialization in Undergraduate Applied Statistics (2025) 
   """)
 
 # ======================
