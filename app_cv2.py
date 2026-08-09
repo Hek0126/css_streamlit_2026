@@ -50,7 +50,7 @@ st.sidebar.write("- Setswana (Fluent)")
 # MAIN CONTENT
 # ======================
 st.title("Buhlebenkosi Heketshe")
-st.subheader("Mathematical Sciences Honours Student")
+st.subheader("Mathematical Sciences PGDip Student")
 
 st.markdown("""
 **Profile Summary**
