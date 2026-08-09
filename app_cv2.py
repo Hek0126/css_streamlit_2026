@@ -23,7 +23,7 @@ st.sidebar.title("📄 Curriculum Vitae")
 #st.sidebar.subheader("Buhlebenkosi Heketshe")
 
 st.sidebar.write("📍 Achievers Way, Bellville, Cape Town, 7530")
-st.sidebar.write("📧 221688366@mycput.ac.za")
+st.sidebar.write("📧 hekeshebuhle@gmail.com")
 st.sidebar.write("🔗 linkedin.com/in/buhlebenkosi-heketshe-7b781b231")
 st.sidebar.write("💻 github.com/Hek0126")
 st.sidebar.write("📞 +27 63 569 8897")
