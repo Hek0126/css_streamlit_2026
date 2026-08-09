@@ -26,7 +26,7 @@ st.sidebar.write("📍 Achievers Way, Bellville, Cape Town, 7530")
 st.sidebar.write("📧 221688366@mycput.ac.za")
 st.sidebar.write("🔗 linkedin.com/in/buhlebenkosi-heketshe-7b781b231")
 st.sidebar.write("💻 github.com/Hek0126")
-st.sidebar.write("📞 +27 (63) 569 8897")
+st.sidebar.write("📞 +27 63 569 8897")
 
 st.sidebar.markdown("---")
 st.sidebar.write("""**Key Skills** 
@@ -55,9 +55,13 @@ st.subheader("Mathematical Sciences Honours Student")
 st.markdown("""
 **Profile Summary**
 
-Individual dedicated to delivering excellent client oriented outputs. Known for strong problem solving and 
-critical thinking skills, kindness, discipline, and work ethic. Committed to promoting learning and 
-thinking creatively.
+Mathematical Sciences graduate with a strong interest in mathematical modelling, statistical analysis, data 
+science, and machine learning. Possesses strong analytical, mathematical, and critical-thinking abilities, 
+with an enthusiasm for investigating complex problems and applying quantitative methods to real-world contexts. 
+Committed to developing rigorous research and analytical skills and further exploring the application of 
+mathematical and statistical methods through Master's-level study.
+
+
 """)
 
 # ======================
@@ -68,7 +72,7 @@ st.header("🎓 Education")
 st.markdown("""
 **Postgraduate Diploma in Mathematical Sciences | 
   Cape Peninsula University of Technology**  
-*Year: 2026 - (pending)*  
+*Year: 2026 - Present*  
 
 **Relevant Modules**
 - Advanced Programming for Data Science  
@@ -160,6 +164,11 @@ with col2:
 # ======================
 st.header("💼 Experience")
 
+with st.expander("Risk Intern | RCS Group (2026 - Present)"):
+    st.write("""
+    - Apply statistical and quantitative methods to credit-risk analysis
+    - Use SAS and Python for data analysis and risk monitoring
+    """)
 
 with st.expander("Peer Mentor | Cape Peninsula University of Technology (2023 - 2025)"):
     st.write("""
@@ -167,6 +176,35 @@ with st.expander("Peer Mentor | Cape Peninsula University of Technology (2023 - 
     - Connected students to relevant professional services 
     """)
 
+# ======================
+# RESEARCH & PROJECTS
+# ======================
+st.header("🔬 Research & Projects")
+
+with st.expander("Data Quality Governance & Risk Monitoring | RCS / CPUT (2026 - Present)"):
+    st.write("""
+    - Developing timeliness controls and early-warning alerts for data quality governance
+    - Applying data analysis and risk-monitoring techniques to a real-world industry problem
+    """)
+
+with st.expander("Student Debt Analysis | CPUT Finance Department (2025)"):
+    st.write("""
+    - Analysed student debt in relation to academic and graduation factors
+    - Developed a Power BI dashboard to visualise findings
+    """)
+
+with st.expander("QSAR Analysis | CPUT / UWC Bioinformatics (2024)"):
+    st.write("""
+    - Conducted QSAR analysis of the PI3K protein using Python
+    - Investigated protein associations with colorectal cancer
+    """)
+
+with st.expander("Diabetes Risk Prediction | CPUT Maths & Physics (2024)"):
+    st.write("""
+    - Predicted diabetes risk using machine learning models
+    - Analysed patient health parameters using R
+    """)
+    
 # ======================
 # CERTIFICATIONS
 # ======================
@@ -182,13 +220,13 @@ st.markdown("""
 # ======================
 # HOBBIES & INTERESTS
 # ======================
-st.header("⚽ Hobbies & Interests")
+# st.header("⚽ Hobbies & Interests")
 
-st.write("""
-- Reading  
-- Writing  
-- Athletics    
-""")
+# st.write("""
+# - Reading  
+# - Writing  
+# - Athletics    
+# """)
 
 st.markdown("---")
 st.write("© 2026 Buhlebenkosi Heketshe")
